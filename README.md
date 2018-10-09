@@ -1,1 +1,1 @@
-#Virtual thermostat#
+#Virtual thermostat
